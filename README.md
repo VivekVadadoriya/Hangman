@@ -2,6 +2,8 @@
 # Hangman
 Guess the word correctly or the men will be no more.
 
+![hangmanDemo](https://user-images.githubusercontent.com/86045918/125612903-1c5e9322-6aa5-425e-8632-42d056aa5463.png)
+
 ## Installation
 
 Download the package and run the main.py file.
